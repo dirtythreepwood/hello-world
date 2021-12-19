@@ -1,2 +1,3 @@
 # hello-world
-first_try
+# first_try
+# IDDQD (IAMGOD)
